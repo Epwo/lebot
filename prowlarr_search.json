@@ -1,0 +1,698 @@
+[
+    {
+        "guid": "https://ww1.torrent9.fm/torrent/118693/un-p-tit-truc-en-plus-french-webrip-2024",
+        "age": 165,
+        "ageHours": 3968.2883082109165,
+        "ageMinutes": 238097.29849266168,
+        "size": 1288490240,
+        "indexerId": 4,
+        "indexer": "Torrent9",
+        "title": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP ",
+        "sortTitle": "un ptit truc en plus 2024 french webrip",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2024-08-29T00:00:00Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/4/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=eUUyWGlZTUpzcFRrVnptN3NIekEyaHdPYWdiMU5Qa1QvVVgva051NHE2R3g1ZTNnVzNNRHhzYzgxRndCTU13a1YxNjVaSW5sRGhaOCtTS0ZxaDNUV3kwN1VzSFVOdktoeWpLWGhSRDZjT3laOEZtcG5zTlRqN3ZhTGRMd0Q0ODU&file=Un+p%E2%80%99tit+truc+en+plus+2024+FRENCH+WEBRIP+",
+        "infoUrl": "https://ww1.torrent9.fm/torrent/118693/un-p-tit-truc-en-plus-french-webrip-2024",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 131681,
+                "subCategories": []
+            }
+        ],
+        "seeders": 797,
+        "leechers": 21,
+        "protocol": "torrent",
+        "fileName": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP .torrent"
+    },
+    {
+        "guid": "https://ww1.torrent9.fm/torrent/118692/un-p-tit-truc-en-plus-french-webrip-1080p-2024",
+        "age": 165,
+        "ageHours": 3968.288308275,
+        "ageMinutes": 238097.298496505,
+        "size": 7086695936,
+        "indexerId": 4,
+        "indexer": "Torrent9",
+        "title": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 1080p ",
+        "sortTitle": "un ptit truc en plus 2024 french webrip 1080p",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2024-08-29T00:00:00Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/4/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=OVlOOUdwd012MGRDMmppaU10b0ZrNXpacjY4TkFtWm9NWlQrRk5pL0VNQ2x4T3hpQURPOGpJaUNiYithM2RKdXdZT2hiVzlDMWtrZDdDcEMyWENDdzBOWW1wT1JrUkRlZzBwWGJ6blJBS0h5ak93YU5jWWJXOGszTWlHWks0eEcxUXhlS3JDbWQ3MzhaQWJ0VUszMW53PT0&file=Un+p%E2%80%99tit+truc+en+plus+2024+FRENCH+WEBRIP+1080p+",
+        "infoUrl": "https://ww1.torrent9.fm/torrent/118692/un-p-tit-truc-en-plus-french-webrip-1080p-2024",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 131681,
+                "subCategories": []
+            }
+        ],
+        "seeders": 653,
+        "leechers": 48,
+        "protocol": "torrent",
+        "fileName": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 1080p .torrent"
+    },
+    {
+        "guid": "https://ww1.torrent9.fm/torrent/118691/un-p-tit-truc-en-plus-french-webrip-720p-2024",
+        "age": 165,
+        "ageHours": 3968.288308307556,
+        "ageMinutes": 238097.29849845666,
+        "size": 2576980480,
+        "indexerId": 4,
+        "indexer": "Torrent9",
+        "title": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 720p ",
+        "sortTitle": "un ptit truc en plus 2024 french webrip 720p",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2024-08-29T00:00:00Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/4/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=WUk1dXRTd01qZytDdmlTa0FIdk1yZ2U2MVBDOVRNaXJZU1N2dE13bUdqeTRoK0JSL2d6cWRmMkI0S3hRRlRGSXFBT1lyN0QyTjRVbEYrMHdzYjcyYW51bXdlY2M3VTZ5QVEzeHhqeFRSSEJSSGNkUEZtVjBhVHpSWWNLZlhRN3EzZFFqMFczWjVBT2ppdTZyTTRUaWRnPT0&file=Un+p%E2%80%99tit+truc+en+plus+2024+FRENCH+WEBRIP+720p+",
+        "infoUrl": "https://ww1.torrent9.fm/torrent/118691/un-p-tit-truc-en-plus-french-webrip-720p-2024",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 131681,
+                "subCategories": []
+            }
+        ],
+        "seeders": 553,
+        "leechers": 24,
+        "protocol": "torrent",
+        "fileName": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 720p .torrent"
+    },
+    {
+        "guid": "https://www.oxtorrent.co/torrent/118693/un-p-tit-truc-en-plus-french-webrip-2024",
+        "age": 0,
+        "ageHours": 0.00014364947222222222,
+        "ageMinutes": 0.00861897,
+        "size": 1288490240,
+        "indexerId": 5,
+        "indexer": "OxTorrent",
+        "title": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP ",
+        "sortTitle": "un ptit truc en plus 2024 french webrip",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2025-02-10T08:17:17Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/5/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=WFpsNFlNVWFXQlozKzNTb3JrZUJSNFI0MnRrejJUemtQakhCdlZ2ckNOME1QZ2hEM1JJWnFzdnFTbXdCclRqS2UzZldlZXhGSENkT3dFckd2dm9uNm0zaWRyRUloTFBDeUJnL2NLSXlzU1JhVzFLOElaRmQ5MTBWTWM3RFk4TzZEVktwV2p1V2V0VXNmVzlpSG9NaHZ3PT0&file=Un+p%E2%80%99tit+truc+en+plus+2024+FRENCH+WEBRIP+",
+        "infoUrl": "https://www.oxtorrent.co/torrent/118693/un-p-tit-truc-en-plus-french-webrip-2024",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 145469,
+                "subCategories": []
+            }
+        ],
+        "seeders": 797,
+        "leechers": 21,
+        "protocol": "torrent",
+        "fileName": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP .torrent"
+    },
+    {
+        "guid": "https://www.oxtorrent.co/torrent/118692/un-p-tit-truc-en-plus-french-webrip-1080p-2024",
+        "age": 0,
+        "ageHours": 0.00014355244444444443,
+        "ageMinutes": 0.008613146666666667,
+        "size": 7086695936,
+        "indexerId": 5,
+        "indexer": "OxTorrent",
+        "title": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 1080p ",
+        "sortTitle": "un ptit truc en plus 2024 french webrip 1080p",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2025-02-10T08:17:17Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/5/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=T2xoODVIVU5TSVpRYlRwdEJQelBYY1FUWU51elNKc0JnWXM2WFN0ZVJ3MGlqcXdTdVAzZ0wyeXRtQmxDc21zbytLZjQ5MlVNbUl0dXd4QWtqZ2N4M0NUR0lWUnpyQUxvbXU2U1VJL2RUUjNlcFFOcFRvczBTMVA0ZUlXeWI5NENKZ2d2S3lWU0k5S3J1RzFXdEROZXVnPT0&file=Un+p%E2%80%99tit+truc+en+plus+2024+FRENCH+WEBRIP+1080p+",
+        "infoUrl": "https://www.oxtorrent.co/torrent/118692/un-p-tit-truc-en-plus-french-webrip-1080p-2024",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 145469,
+                "subCategories": []
+            }
+        ],
+        "seeders": 653,
+        "leechers": 48,
+        "protocol": "torrent",
+        "fileName": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 1080p .torrent"
+    },
+    {
+        "guid": "https://www.oxtorrent.co/torrent/118691/un-p-tit-truc-en-plus-french-webrip-720p-2024",
+        "age": 0,
+        "ageHours": 0.00014346291666666666,
+        "ageMinutes": 0.008607776666666667,
+        "size": 2576980480,
+        "indexerId": 5,
+        "indexer": "OxTorrent",
+        "title": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 720p ",
+        "sortTitle": "un ptit truc en plus 2024 french webrip 720p",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2025-02-10T08:17:17Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/5/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=VzZscnJxS1c2S2prYmswd3YyQWdndG9XWkx2WTZmVG94U1Z5anJkOFVvNFBNSEFKTjR5aFgxdnNnOHZaLzFkUUlVUlpyclo4aXpjY29XWGxRblBoMTBLbXp6ckYwcVVKWUljWU1leWpvRTZXcll1cll1a2hCWitHcEFHbG16ZExsSVZzcEsrUVlMbHJDTTIwWW10dURBPT0&file=Un+p%E2%80%99tit+truc+en+plus+2024+FRENCH+WEBRIP+720p+",
+        "infoUrl": "https://www.oxtorrent.co/torrent/118691/un-p-tit-truc-en-plus-french-webrip-720p-2024",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 145469,
+                "subCategories": []
+            }
+        ],
+        "seeders": 553,
+        "leechers": 24,
+        "protocol": "torrent",
+        "fileName": "Un p\u2019tit truc en plus 2024 FRENCH WEBRIP 720p .torrent"
+    },
+    {
+        "guid": "https://www.limetorrents.lol/Un-P-tit-Truc-En-Plus-2024-1080p-BluRay-DD-5-1-x264-MegaPeer-torrent-18608293.html",
+        "age": 120,
+        "ageHours": 2880.000101950028,
+        "ageMinutes": 172800.006117005,
+        "size": 9105330176,
+        "indexerId": 8,
+        "indexer": "LimeTorrents",
+        "title": "Un P tit Truc En Plus 2024 1080p BluRay DD 5 1 x264 MegaPeer",
+        "sortTitle": "un p tit truc en plus 2024 1080p bluray dd 5 1 x264 megapeer",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2024-10-13T08:17:17Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/8/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=eDdXUzVUenhQYkZGVyt0ZjlUdzc2YW1GUEttOTlvdjhaMFp4SkpMTlFWWFRNaTRiUitET0VYQnBxYU1TNXJGUlc5RUZvaWYyRXVuMGpvVStLTllhZmNEY2NyRVFQRWRJeEF1R0MvZ2ZVL2sybDdMb1pXaXdJRGgwZ1BKb3dVQlVsUkphcFFFaHlQUVRweGorNDZWNUZNSnhQdnZoRllPdGxuVS9wR2hOb1kwPQ&file=Un+P+tit+Truc+En+Plus+2024+1080p+BluRay+DD+5+1+x264+MegaPeer",
+        "infoUrl": "https://www.limetorrents.lol/Un-P-tit-Truc-En-Plus-2024-1080p-BluRay-DD-5-1-x264-MegaPeer-torrent-18608293.html",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 100467,
+                "subCategories": []
+            }
+        ],
+        "seeders": 5,
+        "leechers": 1,
+        "protocol": "torrent",
+        "fileName": "Un P tit Truc En Plus 2024 1080p BluRay DD 5 1 x264 MegaPeer.torrent"
+    },
+    {
+        "guid": "https://www.limetorrents.lol/Un-P-tit-Truc-En-Plus-2024-720p-BluRay-DD-5-1-x264-MegaPeer-torrent-18608292.html",
+        "age": 120,
+        "ageHours": 2880.0001019039446,
+        "ageMinutes": 172800.00611424,
+        "size": 5336496640,
+        "indexerId": 8,
+        "indexer": "LimeTorrents",
+        "title": "Un P tit Truc En Plus 2024 720p BluRay DD 5 1 x264 MegaPeer",
+        "sortTitle": "un p tit truc en plus 2024 720p bluray dd 5 1 x264 megapeer",
+        "imdbId": 0,
+        "tmdbId": 0,
+        "tvdbId": 0,
+        "tvMazeId": 0,
+        "publishDate": "2024-10-13T08:17:17Z",
+        "downloadUrl": "https://prowlarr.media.swagman.fr/8/download?apikey=0f8a246ac39d49ca8c68f5b5a494fe43&link=NWlPTHVqRzR6b2doR0FCcU5qTW9PR2cwU3B0aUtyM2ZOS1FyVnlQVkxCWnlZS0xMV0ljcjVJa1JldGd1OHBUQVl1a08xK3FMOGc0UkRLcC9qMFZnN1RvVTJqQzk5K09qdG1KQU9qUExWNGF0bFNCc0JqVzhkeWtIOFVvTE5qZnpIazA5czdaVGFFQjRWZklJL25jSThmayszelhDVE9rcVRteXBXNWdSUWdVPQ&file=Un+P+tit+Truc+En+Plus+2024+720p+BluRay+DD+5+1+x264+MegaPeer",
+        "infoUrl": "https://www.limetorrents.lol/Un-P-tit-Truc-En-Plus-2024-720p-BluRay-DD-5-1-x264-MegaPeer-torrent-18608292.html",
+        "indexerFlags": [
+            "freeleech"
+        ],
+        "categories": [
+            {
+                "id": 2000,
+                "name": "Movies",
+                "subCategories": [
+                    {
+                        "id": 2010,
+                        "name": "Movies/Foreign",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2020,
+                        "name": "Movies/Other",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2030,
+                        "name": "Movies/SD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2040,
+                        "name": "Movies/HD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2045,
+                        "name": "Movies/UHD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2050,
+                        "name": "Movies/BluRay",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2060,
+                        "name": "Movies/3D",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2070,
+                        "name": "Movies/DVD",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2080,
+                        "name": "Movies/WEB-DL",
+                        "subCategories": []
+                    },
+                    {
+                        "id": 2090,
+                        "name": "Movies/x265",
+                        "subCategories": []
+                    }
+                ]
+            },
+            {
+                "id": 100467,
+                "subCategories": []
+            }
+        ],
+        "seeders": 1,
+        "leechers": 1,
+        "protocol": "torrent",
+        "fileName": "Un P tit Truc En Plus 2024 720p BluRay DD 5 1 x264 MegaPeer.torrent"
+    }
+]
