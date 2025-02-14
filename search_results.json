@@ -1,0 +1,1480 @@
+[
+    {
+        "title": "Represent",
+        "alternateTitles": [
+            {
+                "title": "Der Wahlkaempfer",
+                "seasonNumber": -1
+            },
+            {
+                "title": "Represent",
+                "seasonNumber": -1
+            },
+            {
+                "title": "En place",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "represent",
+        "status": "continuing",
+        "ended": false,
+        "overview": "A youth center leader from the suburbs of Paris becomes a finalist in the presidential election. But is France truly ready for its first Black president?",
+        "previousAiring": "2024-08-29T13:00:00Z",
+        "network": "Netflix",
+        "airTime": "09:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/1/banner.jpg?lastWrite=638612994040943484",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/426793/banners/63692fc1ab336.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/1/poster.jpg?lastWrite=638612994041223484",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/426793/posters/63bec1a7ca3cd.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/1/fanart.jpg?lastWrite=638612994041463484",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/426793/backgrounds/63ac42bea1cde.jpg"
+            }
+        ],
+        "originalLanguage": {
+            "id": 2,
+            "name": "French"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2023-01-20T14:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 6,
+                    "totalEpisodeCount": 6,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2024-08-29T13:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 6,
+                    "totalEpisodeCount": 6,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2023,
+        "path": "/downloads/Represent",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 31,
+        "tvdbId": 426793,
+        "tvRageId": 0,
+        "tvMazeId": 66088,
+        "tmdbId": 194899,
+        "firstAired": "2023-01-20T00:00:00Z",
+        "lastAired": "2024-08-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "represent",
+        "imdbId": "tt23546622",
+        "titleSlug": "represent",
+        "rootFolderPath": "/downloads",
+        "genres": [
+            "Comedy"
+        ],
+        "tags": [],
+        "added": "2024-09-07T09:50:03Z",
+        "ratings": {
+            "votes": 1200,
+            "value": 6.6
+        },
+        "statistics": {
+            "seasonCount": 2,
+            "episodeFileCount": 0,
+            "episodeCount": 12,
+            "totalEpisodeCount": 12,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 1
+    },
+    {
+        "title": "Band of Brothers",
+        "alternateTitles": [],
+        "sortTitle": "band of brothers",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story of Easy Company, 506th Regiment of the 101st Airborne Division, U.S. Army. Based on interviews with survivors of Easy Company, as well as soldiers' journals and letters, the series chronicles the experiences of these young men who knew extraordinary bravery and extraordinary fear.",
+        "network": "HBO",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/4/banner.jpg?lastWrite=638635817467887616",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/74205-g3.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/4/poster.jpg?lastWrite=638635817468127616",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/74205-12.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/4/fanart.jpg?lastWrite=638635817468487616",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/74205-38.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/4/clearlogo.png?lastWrite=638635817468687616",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/74205/clearlogo/611b6d5b9ae72.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 4,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 10,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2001,
+        "path": "/downloads/Band of Brothers",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 63,
+        "tvdbId": 74205,
+        "tvRageId": 2708,
+        "tvMazeId": 465,
+        "tmdbId": 4613,
+        "firstAired": "2001-09-09T00:00:00Z",
+        "lastAired": "2001-11-04T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "bandbrothers",
+        "imdbId": "tt0185906",
+        "titleSlug": "band-of-brothers",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-MA",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "History",
+            "Mini-Series",
+            "War"
+        ],
+        "tags": [],
+        "added": "2024-10-03T19:49:06Z",
+        "ratings": {
+            "votes": 534908,
+            "value": 9.4
+        },
+        "statistics": {
+            "seasonCount": 1,
+            "episodeFileCount": 0,
+            "episodeCount": 0,
+            "totalEpisodeCount": 14,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 4
+    },
+    {
+        "title": "Black Mirror",
+        "alternateTitles": [],
+        "sortTitle": "black mirror",
+        "status": "continuing",
+        "ended": false,
+        "overview": "A television anthology series that shows the dark side of life and technology.",
+        "previousAiring": "2023-06-15T07:00:00Z",
+        "network": "Netflix",
+        "airTime": "03:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/5/banner.jpg?lastWrite=638638446289145894",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/253463-g4.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/5/poster.jpg?lastWrite=638638446289425894",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/253463-4.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/5/fanart.jpg?lastWrite=638638446289745894",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/253463-20.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/5/clearlogo.png?lastWrite=638638446289825894",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/253463/clearlogo/611b79d8cf43a.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 2,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 3,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2013-02-25T08:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 3,
+                    "totalEpisodeCount": 3,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 3,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2016-10-21T07:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 6,
+                    "totalEpisodeCount": 6,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 4,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2017-12-29T08:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 6,
+                    "totalEpisodeCount": 6,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 5,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2019-06-05T08:56:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 3,
+                    "totalEpisodeCount": 3,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 6,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2023-06-15T07:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 5,
+                    "totalEpisodeCount": 5,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2011,
+        "path": "/downloads/Black Mirror",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 58,
+        "tvdbId": 253463,
+        "tvRageId": 30348,
+        "tvMazeId": 305,
+        "tmdbId": 42009,
+        "firstAired": "2011-12-04T00:00:00Z",
+        "lastAired": "2023-06-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "blackmirror",
+        "imdbId": "tt2085059",
+        "titleSlug": "black-mirror",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-MA",
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "tags": [],
+        "added": "2024-10-06T20:50:28Z",
+        "ratings": {
+            "votes": 647386,
+            "value": 8.7
+        },
+        "statistics": {
+            "seasonCount": 6,
+            "episodeFileCount": 0,
+            "episodeCount": 23,
+            "totalEpisodeCount": 28,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 5
+    },
+    {
+        "title": "Loups garous",
+        "alternateTitles": [],
+        "sortTitle": "loups garous",
+        "status": "continuing",
+        "ended": false,
+        "overview": "13 players, specialists in strategy and deception, compete in real-time for a life-sized game of Werewolves.",
+        "previousAiring": "2024-11-01T20:44:00Z",
+        "network": "Canal+",
+        "airTime": "21:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/7/banner.jpg?lastWrite=638649297386316139",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/454234/banners/670c25167b3e9.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/7/poster.jpg?lastWrite=638662913886651574",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/454234/posters/6726cd91bcc50.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/7/fanart.jpg?lastWrite=638649297386796136",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/454234/backgrounds/67093c075ca67.jpg"
+            }
+        ],
+        "originalLanguage": {
+            "id": 2,
+            "name": "French"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 1,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2024-11-01T20:44:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 4,
+                    "totalEpisodeCount": 8,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2024,
+        "path": "/downloads/tvshows/Loups.Garous/",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 44,
+        "tvdbId": 454234,
+        "tvRageId": 0,
+        "tvMazeId": 80116,
+        "tmdbId": 270963,
+        "firstAired": "2024-10-11T00:00:00Z",
+        "lastAired": "2024-11-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "loupsgarous",
+        "imdbId": "tt34186841",
+        "titleSlug": "loups-garous",
+        "rootFolderPath": "/downloads/tvshows/",
+        "genres": [
+            "Game Show"
+        ],
+        "tags": [],
+        "added": "2024-10-19T10:15:38Z",
+        "ratings": {
+            "votes": 0,
+            "value": 0
+        },
+        "statistics": {
+            "seasonCount": 1,
+            "episodeFileCount": 0,
+            "episodeCount": 4,
+            "totalEpisodeCount": 9,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 7
+    },
+    {
+        "title": "The Apothecary Diaries",
+        "alternateTitles": [
+            {
+                "title": "Kusuriya no Hitorigoto",
+                "sceneSeasonNumber": -1
+            },
+            {
+                "title": "Kusuriya no Hitorigoto S2",
+                "sceneSeasonNumber": 2
+            },
+            {
+                "title": "Kusuriya no Hitorigoto 2nd Season",
+                "sceneSeasonNumber": 2
+            },
+            {
+                "title": "Die Tagebuecher der Apothekerin",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "apothecary diaries",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she\u2019s sold as a lowly servant to the emperor\u2019s palace. But she wasn\u2019t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she\u2019s making a name for herself solving medical mysteries!",
+        "network": "Nippon TV",
+        "airTime": "23:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/8/banner.jpg?lastWrite=638689271574314807",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/431162/banners/674fe769e264d.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/8/poster.jpg?lastWrite=638661888341364803",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/8/fanart.jpg?lastWrite=638661888341804801",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/431162/backgrounds/668a689ddc5e6.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/8/clearlogo.png?lastWrite=638661888342204800",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/431162/clearlogo/66ad3ffb7e098.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 8,
+            "name": "Japanese"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 29,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 24,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 24,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2023,
+        "path": "/downloads/The Apothecary Diaries",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 24,
+        "tvdbId": 431162,
+        "tvRageId": 0,
+        "tvMazeId": 67017,
+        "tmdbId": 220542,
+        "firstAired": "2023-10-22T00:00:00Z",
+        "lastAired": "2025-06-20T00:00:00Z",
+        "seriesType": "anime",
+        "cleanTitle": "theapothecarydiaries",
+        "imdbId": "tt26743760",
+        "titleSlug": "the-apothecary-diaries",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-14",
+        "genres": [
+            "Animation",
+            "Anime",
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "tags": [],
+        "added": "2024-11-03T00:00:33Z",
+        "ratings": {
+            "votes": 6911,
+            "value": 8.6
+        },
+        "statistics": {
+            "seasonCount": 2,
+            "episodeFileCount": 0,
+            "episodeCount": 0,
+            "totalEpisodeCount": 77,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 8
+    },
+    {
+        "title": "Arcane",
+        "alternateTitles": [
+            {
+                "title": "Arcane League of Legends",
+                "seasonNumber": -1
+            },
+            {
+                "title": "Arcane: League of Legends",
+                "seasonNumber": -1
+            },
+            {
+                "title": "Arcane AKA Arcane League of Legends",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "arcane",
+        "status": "ended",
+        "ended": true,
+        "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+        "previousAiring": "2024-11-23T09:22:00Z",
+        "network": "Netflix",
+        "airTime": "03:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/9/banner.jpg?lastWrite=638680197642763241",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371028/banners/67423f37bd247.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/9/poster.jpg?lastWrite=638667717507496896",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371028/posters/617f6a8c59e8f.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/9/fanart.jpg?lastWrite=638667717507976894",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5da773c1b3db3.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/9/clearlogo.png?lastWrite=638667717508376892",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371028/clearlogo/614f9c5ddd8cd.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 10,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2021-11-20T09:22:00Z",
+                    "episodeFileCount": 9,
+                    "episodeCount": 9,
+                    "totalEpisodeCount": 9,
+                    "sizeOnDisk": 5138283824,
+                    "releaseGroups": [
+                        "RAV1NE"
+                    ],
+                    "percentOfEpisodes": 100
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2024-11-23T09:22:00Z",
+                    "episodeFileCount": 9,
+                    "episodeCount": 9,
+                    "totalEpisodeCount": 9,
+                    "sizeOnDisk": 13592245787,
+                    "releaseGroups": [
+                        "successfulcrab",
+                        "SuccessfulCrab"
+                    ],
+                    "percentOfEpisodes": 100
+                }
+            }
+        ],
+        "year": 2021,
+        "path": "/downloads/tvshows/Arcane",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 41,
+        "tvdbId": 371028,
+        "tvRageId": 0,
+        "tvMazeId": 55138,
+        "tmdbId": 94605,
+        "firstAired": "2021-11-06T00:00:00Z",
+        "lastAired": "2024-11-23T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "arcane",
+        "imdbId": "tt11126994",
+        "titleSlug": "arcane",
+        "rootFolderPath": "/downloads/tvshows/",
+        "certification": "TV-14",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Drama",
+            "Fantasy",
+            "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2024-11-09T17:55:50Z",
+        "ratings": {
+            "votes": 280152,
+            "value": 9.0
+        },
+        "statistics": {
+            "seasonCount": 2,
+            "episodeFileCount": 18,
+            "episodeCount": 18,
+            "totalEpisodeCount": 28,
+            "sizeOnDisk": 18730529611,
+            "releaseGroups": [
+                "RAV1NE",
+                "successfulcrab",
+                "SuccessfulCrab"
+            ],
+            "percentOfEpisodes": 100
+        },
+        "languageProfileId": 1,
+        "id": 9
+    },
+    {
+        "title": "The Penguin",
+        "alternateTitles": [
+            {
+                "title": "El Ping\u00fcino",
+                "seasonNumber": -1
+            },
+            {
+                "title": "Pingwin / The Penguin",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "penguin",
+        "status": "ended",
+        "ended": true,
+        "overview": "This thrilling crime drama follows Oswald \u201cOz\u201d Cobb\u2019s quest for control in Gotham City. With the city in peril following the seawall\u2019s collapse, Oz seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he\u2019s always promised. But first, Oz must confront his enemies, including Carmine\u2019s children, Sofia Falcone and Alberto Falcone; the Maroni family, led by their imprisoned patriarch, Salvatore Maroni; and Oz\u2019s own demoralizing reputation as \u201cthe Penguin.\u201d",
+        "previousAiring": "2024-11-11T02:00:00Z",
+        "network": "HBO",
+        "airTime": "21:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/10/banner.jpg?lastWrite=638710016462685529",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/417648/banners/6741172a90248.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/10/poster.jpg?lastWrite=638710016462965527",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/417648/posters/6674863502cdc.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/10/fanart.jpg?lastWrite=638710016463245525",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/417648/backgrounds/6440dca3f1043.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/10/clearlogo.png?lastWrite=638710016463565523",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/417648/clearlogo/66cdb961332c2.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 9,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2024-11-11T02:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 8,
+                    "totalEpisodeCount": 8,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2024,
+        "path": "/downloads/The Penguin",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 57,
+        "tvdbId": 417648,
+        "tvRageId": 0,
+        "tvMazeId": 60920,
+        "tmdbId": 194764,
+        "firstAired": "2024-09-19T00:00:00Z",
+        "lastAired": "2024-11-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thepenguin",
+        "imdbId": "tt15435876",
+        "titleSlug": "the-penguin",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-MA",
+        "genres": [
+            "Action",
+            "Crime",
+            "Mini-Series",
+            "Thriller"
+        ],
+        "tags": [],
+        "added": "2024-12-28T16:54:06Z",
+        "ratings": {
+            "votes": 0,
+            "value": 0
+        },
+        "statistics": {
+            "seasonCount": 1,
+            "episodeFileCount": 0,
+            "episodeCount": 8,
+            "totalEpisodeCount": 17,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 10
+    },
+    {
+        "title": "Squid Game",
+        "alternateTitles": [
+            {
+                "title": "El juego del calamar",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "squid game",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits \u2014 with deadly high stakes.",
+        "nextAiring": "2025-06-27T21:00:00Z",
+        "network": "Netflix",
+        "airTime": "17:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/11/banner.jpg?lastWrite=638711072629733052",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/383275/banners/614429e09acf6.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/11/poster.jpg?lastWrite=638711072630493046",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/383275/posters/6151351c5420c.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/11/fanart.jpg?lastWrite=638711072630893043",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/383275/backgrounds/61131e54d37c6.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/11/clearlogo.png?lastWrite=638711072631253040",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/383275/clearlogo/677035be005c2.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 21,
+            "name": "Korean"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 2,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 9,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": true,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 7,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 3,
+                "monitored": true,
+                "statistics": {
+                    "nextAiring": "2025-06-27T21:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 1,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2021,
+        "path": "/downloads/Squid Game",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 58,
+        "tvdbId": 383275,
+        "tvRageId": 0,
+        "tvMazeId": 43687,
+        "tmdbId": 93405,
+        "firstAired": "2021-09-17T00:00:00Z",
+        "lastAired": "2025-06-27T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "squidgame",
+        "imdbId": "tt10919420",
+        "titleSlug": "squid-game",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-MA",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "tags": [],
+        "added": "2024-12-29T22:14:22Z",
+        "ratings": {
+            "votes": 554397,
+            "value": 8.0
+        },
+        "statistics": {
+            "seasonCount": 3,
+            "episodeFileCount": 0,
+            "episodeCount": 0,
+            "totalEpisodeCount": 19,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 11
+    },
+    {
+        "title": "The Parisian Agency: Exclusive Properties",
+        "alternateTitles": [
+            {
+                "title": "L'agence : L'immobilier de luxe en famille",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "parisian agency exclusive properties",
+        "status": "continuing",
+        "ended": false,
+        "overview": "This reality series follows the Kretz family and their luxury property business as they help clients buy and sell fabulous homes in France and abroad.",
+        "previousAiring": "2024-02-08T20:15:00Z",
+        "network": "TMC",
+        "airTime": "21:15",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/12/banner.jpg?lastWrite=638717707495740982",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/387749/banners/6221c033cb8b9.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/12/poster.jpg?lastWrite=638717707496460977",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/387749/posters/60d33ff4ceb4c.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/12/fanart.jpg?lastWrite=638717707496900973",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/387749/backgrounds/5f6b2ab603f30.jpg"
+            }
+        ],
+        "originalLanguage": {
+            "id": 2,
+            "name": "French"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 1,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 5,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 6,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 3,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 8,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 4,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2024-02-08T20:15:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 10,
+                    "totalEpisodeCount": 10,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 5,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 8,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2020,
+        "path": "/downloads/The Parisian Agency - Exclusive Properties",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 54,
+        "tvdbId": 387749,
+        "tvRageId": 0,
+        "tvMazeId": 55852,
+        "tmdbId": 112747,
+        "firstAired": "2020-09-24T00:00:00Z",
+        "lastAired": "2025-01-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theparisianagencyexclusiveproperties",
+        "imdbId": "tt14746934",
+        "titleSlug": "the-parisian-agency-exclusive-properties",
+        "rootFolderPath": "/downloads",
+        "genres": [
+            "Reality"
+        ],
+        "tags": [],
+        "added": "2025-01-06T14:32:29Z",
+        "ratings": {
+            "votes": 1247,
+            "value": 7.7
+        },
+        "statistics": {
+            "seasonCount": 5,
+            "episodeFileCount": 0,
+            "episodeCount": 10,
+            "totalEpisodeCount": 37,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 12
+    },
+    {
+        "title": "Bref.",
+        "alternateTitles": [],
+        "sortTitle": "bref",
+        "status": "continuing",
+        "ended": false,
+        "overview": "In life we are born, at the end we die. Between the two, things happens, in short, it is the story of a guy between the two.",
+        "nextAiring": "2025-02-15T01:15:00Z",
+        "network": "Disney+",
+        "airTime": "20:15",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/13/banner.jpg?lastWrite=638740281603570451",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/251562-g.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/13/poster.jpg?lastWrite=638740281604010456",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/251562-2.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/13/fanart.jpg?lastWrite=638740281604450462",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/251562/backgrounds/679d2ef6681e7.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/13/clearlogo.png?lastWrite=638740281604770466",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/251562/clearlogo/611be4b247de8.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 2,
+            "name": "French"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 9,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 82,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": true,
+                "statistics": {
+                    "nextAiring": "2025-02-15T01:15:00Z",
+                    "episodeFileCount": 6,
+                    "episodeCount": 6,
+                    "totalEpisodeCount": 6,
+                    "sizeOnDisk": 9311284346,
+                    "releaseGroups": [
+                        "FW"
+                    ],
+                    "percentOfEpisodes": 100
+                }
+            }
+        ],
+        "year": 2011,
+        "path": "/downloads/Bref",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 4,
+        "tvdbId": 251562,
+        "tvRageId": 29721,
+        "tvMazeId": 7209,
+        "tmdbId": 60715,
+        "firstAired": "2011-08-29T00:00:00Z",
+        "lastAired": "2025-02-14T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "bref",
+        "imdbId": "tt2044128",
+        "titleSlug": "bref",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-Y",
+        "genres": [
+            "Comedy",
+            "Mini-Series"
+        ],
+        "tags": [],
+        "added": "2025-02-01T17:36:00Z",
+        "ratings": {
+            "votes": 2618,
+            "value": 8.2
+        },
+        "statistics": {
+            "seasonCount": 2,
+            "episodeFileCount": 6,
+            "episodeCount": 6,
+            "totalEpisodeCount": 97,
+            "sizeOnDisk": 9311284346,
+            "releaseGroups": [
+                "FW"
+            ],
+            "percentOfEpisodes": 100
+        },
+        "languageProfileId": 1,
+        "id": 13
+    },
+    {
+        "title": "En vol avec les as de l'arm\u00e9e de l'air",
+        "alternateTitles": [],
+        "sortTitle": "en vol avec les as de larm\u00e9e de lair",
+        "status": "ended",
+        "ended": true,
+        "previousAiring": "2012-10-08T23:00:00Z",
+        "network": "France 4",
+        "images": [],
+        "originalLanguage": {
+            "id": 2,
+            "name": "French"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "previousAiring": "2012-10-08T23:00:00Z",
+                    "episodeFileCount": 0,
+                    "episodeCount": 4,
+                    "totalEpisodeCount": 4,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            }
+        ],
+        "year": 2012,
+        "path": "/downloads/En vol avec les as de l'arm\u00e9e de l'air",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 60,
+        "tvdbId": 263671,
+        "tvRageId": 0,
+        "tvMazeId": 0,
+        "tmdbId": 0,
+        "firstAired": "2012-10-02T00:00:00Z",
+        "lastAired": "2012-10-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "envolaveclesasdelarmeedelair",
+        "titleSlug": "en-vol-avec-les-as-de-larmee-de-lair",
+        "rootFolderPath": "/downloads",
+        "genres": [
+            "Documentary"
+        ],
+        "tags": [],
+        "added": "2025-02-03T09:34:06Z",
+        "ratings": {
+            "votes": 0,
+            "value": 0
+        },
+        "statistics": {
+            "seasonCount": 1,
+            "episodeFileCount": 0,
+            "episodeCount": 4,
+            "totalEpisodeCount": 4,
+            "sizeOnDisk": 0,
+            "releaseGroups": [],
+            "percentOfEpisodes": 0
+        },
+        "languageProfileId": 1,
+        "id": 14
+    },
+    {
+        "title": "Severance",
+        "alternateTitles": [
+            {
+                "title": "Separaci\u00f3n",
+                "seasonNumber": -1
+            },
+            {
+                "title": "Scissione",
+                "seasonNumber": -1
+            }
+        ],
+        "sortTitle": "severance",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+        "nextAiring": "2025-02-21T02:00:00Z",
+        "previousAiring": "2025-02-14T02:00:00Z",
+        "network": "Apple TV+",
+        "airTime": "21:00",
+        "images": [
+            {
+                "coverType": "banner",
+                "url": "/MediaCover/15/banner.jpg?lastWrite=638743981806028460",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371980/banners/61bb729db0947.jpg"
+            },
+            {
+                "coverType": "poster",
+                "url": "/MediaCover/15/poster.jpg?lastWrite=638743981806548462",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371980/posters/61bc6bbbea3f4.jpg"
+            },
+            {
+                "coverType": "fanart",
+                "url": "/MediaCover/15/fanart.jpg?lastWrite=638743981807228465",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371980/backgrounds/61bdee7c62d99.jpg"
+            },
+            {
+                "coverType": "clearlogo",
+                "url": "/MediaCover/15/clearlogo.png?lastWrite=638743981807428466",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/371980/clearlogo/621094f90a4e4.png"
+            }
+        ],
+        "originalLanguage": {
+            "id": 1,
+            "name": "English"
+        },
+        "seasons": [
+            {
+                "seasonNumber": 0,
+                "monitored": false,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 12,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 1,
+                "monitored": true,
+                "statistics": {
+                    "episodeFileCount": 0,
+                    "episodeCount": 0,
+                    "totalEpisodeCount": 9,
+                    "sizeOnDisk": 0,
+                    "releaseGroups": [],
+                    "percentOfEpisodes": 0
+                }
+            },
+            {
+                "seasonNumber": 2,
+                "monitored": true,
+                "statistics": {
+                    "nextAiring": "2025-02-21T02:00:00Z",
+                    "previousAiring": "2025-02-14T02:00:00Z",
+                    "episodeFileCount": 1,
+                    "episodeCount": 1,
+                    "totalEpisodeCount": 10,
+                    "sizeOnDisk": 3811101323,
+                    "releaseGroups": [
+                        "NTb"
+                    ],
+                    "percentOfEpisodes": 100
+                }
+            }
+        ],
+        "year": 2022,
+        "path": "/downloads/Severance",
+        "qualityProfileId": 1,
+        "seasonFolder": false,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 48,
+        "tvdbId": 371980,
+        "tvRageId": 0,
+        "tvMazeId": 44933,
+        "tmdbId": 95396,
+        "firstAired": "2022-02-18T00:00:00Z",
+        "lastAired": "2025-03-20T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "severance",
+        "imdbId": "tt11280740",
+        "titleSlug": "severance",
+        "rootFolderPath": "/downloads",
+        "certification": "TV-MA",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-02-06T00:23:00Z",
+        "ratings": {
+            "votes": 210543,
+            "value": 8.7
+        },
+        "statistics": {
+            "seasonCount": 2,
+            "episodeFileCount": 1,
+            "episodeCount": 1,
+            "totalEpisodeCount": 31,
+            "sizeOnDisk": 3811101323,
+            "releaseGroups": [
+                "NTb"
+            ],
+            "percentOfEpisodes": 100
+        },
+        "languageProfileId": 1,
+        "id": 15
+    }
+]
