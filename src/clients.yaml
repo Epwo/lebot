@@ -1,0 +1,49 @@
+Prowlarr:
+  # Prowlarr will be used to search for movies, tv-shows and anime and grab the magnet torrent link
+  __init__:
+    - BaseUrl : 
+        the base url of the prowlar instance (system variable)
+    - api_key : 
+        the api key of the prowlar instance (system variable)
+  search:
+    - query : 
+        the query to search for
+    - type : 
+        the type of search ["movie", "tv-shows", "anime"]
+
+        
+Radarr:
+  # Radarr will be used to search for movies infos, add movies to the library and get the missing movies
+  # (but not to grab the magnet link)
+  # or it can be used to get the downloading queue
+  __init__:
+    - BaseUrl :
+        the base url of the radarr instance (system variable)
+    - api_key : 
+        the api key of the radarr instance (system variable)
+  search_movie:
+    - query : 
+        the query to search for
+  get_missing_movies: []
+  lookup_movie:
+    - term :
+        the term to search for
+  get_downloding_queue: []
+  get_movies: []
+      to get the movies in the library
+
+
+Qbitorrent:
+  # Qbitorrent will be used to add the torrent to the download queue
+  # or to get the current downloading torrents names, the time left, the download speed, the upload speed
+  __init__:
+    - BaseUrl :
+        the base url of the qbitorrent instance (system variable)
+    - password :  
+        the password of the qbitorrent instance (system variable)
+  authenticate: []
+  get_torrents: []
+    to get the current downloading torrents, 
+  add_torrent:
+    - magnet : 
+        the magnet link of the torrent

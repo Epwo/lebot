@@ -6,6 +6,7 @@ class Qbitorrent:
         self.BaseUrl = BaseUrl
         self.password = password
         self.cookie = "pending"
+        self.authenticate()
 
     def authenticate(self):
         url = f"{self.BaseUrl}/api/v2/auth/login"
